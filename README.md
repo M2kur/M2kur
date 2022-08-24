@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @M2kur
 - 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Algorithm and Data Science 
+- 💞️ I’m looking to collaborate on Software Development 
 - 📫 How to reach me 
 
 <!---
